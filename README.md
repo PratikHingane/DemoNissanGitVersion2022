@@ -4,6 +4,3 @@ Demonstration on README MarkDown File
 Updated
 # I am Dipak....
 
-
-
-# I have updated this file ....
