@@ -7,3 +7,6 @@ Updated
 
 
 # I have updated this file ....
+Changes made as per TL instructions
+
+1. added OODM sripts
